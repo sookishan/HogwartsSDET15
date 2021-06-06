@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1c11234-636a-4fe3-bcb1-da1d167ad5b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/stepwise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试上传" beforeDir="false" afterPath="$PROJECT_DIR$/测试上传" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\sooki\PycharmProjects\HogwartsSDET15\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1msn6TPpksOsUdl3IOAzaIYmx6J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_demo.TestDemo.test_deletecontect">
+    <configuration name="pytest for test_demo.TestDemo.test_contact" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo.TestDemo.test_contact&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.TestDemo.test_daka" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo.TestDemo.test_daka&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.TestDemo.test_deletecontect" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo.TestDemo.test_deletecontect&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo.TestDemo.test_demo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HogwartsSDET15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo.TestDemo.test_demo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_demo.TestDemo.test_deletecontect" />
+        <item itemvalue="Python tests.pytest for test_demo.TestDemo.test_contact" />
+        <item itemvalue="Python tests.pytest for test_demo.TestDemo.test_daka" />
+        <item itemvalue="Python tests.pytest for test_demo.TestDemo.test_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1c11234-636a-4fe3-bcb1-da1d167ad5b6" name="Default Changelist" comment="" />
+      <created>1610290990247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610290990247</updated>
+      <workItem from="1610290999167" duration="3219000" />
+      <workItem from="1612110556303" duration="3760000" />
+      <workItem from="1612538859859" duration="5413000" />
+      <workItem from="1612599577739" duration="4067000" />
+      <workItem from="1612798901985" duration="2014000" />
+      <workItem from="1617118119303" duration="4204000" />
+      <workItem from="1617203002975" duration="413000" />
+      <workItem from="1617203786030" duration="5283000" />
+      <workItem from="1619106612996" duration="219000" />
+      <workItem from="1619107032311" duration="2215000" />
+      <workItem from="1621005610087" duration="728000" />
+      <workItem from="1621439153997" duration="2925000" />
+      <workItem from="1622820794688" duration="4467000" />
+      <workItem from="1622906724140" duration="2685000" />
+      <workItem from="1622993884517" duration="1690000" />
+    </task>
+    <task id="LOCAL-00001" summary="重新上传">
+      <created>1622823297326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622823297327</updated>
+    </task>
+    <task id="LOCAL-00002" summary="重新上传">
+      <created>1622908783091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622908783091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重新上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新上传" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="83" key="#Notifications" timestamp="1622909535287">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="352" y="83" key="#Notifications/0.0.1549.831@0.0.1549.831" timestamp="1622909535287" />
+    <state x="364" y="12" key="CommitChangelistDialog2" timestamp="1622908782297">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="364" y="12" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1622908782297" />
+    <state x="701" y="239" key="FileChooserDialogImpl" timestamp="1622823485455">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="701" y="239" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1622823485455" />
+    <state x="727" y="361" key="Github.ShareDialog" timestamp="1622908761303">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="727" y="361" key="Github.ShareDialog/0.0.1549.831@0.0.1549.831" timestamp="1622908761303" />
+    <state x="663" y="182" key="Github.UntrackedFilesDialog" timestamp="1622822337468">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="663" y="182" key="Github.UntrackedFilesDialog/0.0.1549.831@0.0.1549.831" timestamp="1622822337468" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom" timestamp="1619109477038">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1619109477038" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center" timestamp="1619109477038">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1619109477038" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left" timestamp="1619109477038">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1619109477038" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right" timestamp="1619109477038">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1619109477038" />
+    <state x="225" y="75" key="SettingsEditor" timestamp="1622909897703">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="225" y="75" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1622909897703" />
+    <state x="332" y="242" key="Vcs.Push.Dialog.v2" timestamp="1622995368835">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="332" y="242" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1622995368835" />
+    <state x="222" y="145" width="1218" height="609" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1622824720378">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="222" y="145" width="1218" height="609" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1549.831@0.0.1549.831" timestamp="1622824720378" />
+    <state x="510" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1622993885389">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="510" y="296" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1622993885389" />
+    <state x="539" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622823982144">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="539" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1549.831@0.0.1549.831" timestamp="1622823982144" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_daka.coverage" NAME="pytest for test_demo.TestDemo.test_daka Coverage Results" MODIFIED="1612545139077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_deletecontect.coverage" NAME="pytest for test_demo.TestDemo.test_deletecontect Coverage Results" MODIFIED="1619107839405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_contact.coverage" NAME="pytest for test_demo.TestDemo.test_contact Coverage Results" MODIFIED="1617206046475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_demo.coverage" NAME="pytest for test_demo.TestDemo.test_demo Coverage Results" MODIFIED="1612199056614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
