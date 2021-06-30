@@ -57,14 +57,17 @@ class TestDemo:
         name = 'zhangsan7'
         gender = '女'
         telephone = '13000000005'
+        # 进入到通讯录界面
         self.driver.find_element(MobileBy.XPATH, "//*[@text='通讯录']").click()
         # self.driver.find_element(MobileBy.XPATH, "//*[@text='添加成员']").click()
+        # 滚动查找【添加成员】
         self.driver.find_element(MobileBy.ANDROID_UIAUTOMATOR,
                                  'new UiScrollable(new UiSelector()\
                                  .scrollable(true).instance(0))\
                                  .scrollIntoView(new UiSelector()\
                                  .text("添加成员").instance(0));').click()
         sleep(3)
+        # 点击【手动输入添加】
         self.driver.find_element(MobileBy.XPATH, "//*[@text='手动输入添加']").click()
         sleep(1)
         self.driver.find_element(MobileBy.XPATH,
