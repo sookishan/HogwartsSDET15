@@ -1,0 +1,12 @@
+desirecaps:
+  platformName: "Android"
+  deviceName: "test"
+  platformVersion: "6.0.1"
+  appPackage: "com.tencent.wework"
+  appActivity: ".launch.WwMainActivity"
+  noReset: "true"
+
+
+server:
+  ip: "localhost"
+  port: "4723"

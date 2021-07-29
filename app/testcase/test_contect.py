@@ -6,17 +6,18 @@
 from app.page.app import App
 
 
-class TestContact:
+class TestContact():
     def setup(self):
         self.app = App()
         self.main = self.app.start().goto_main()
 
     def test_addcontact(self):
-        name = 'zhangsan7'
-        gender = '女'
-        phonenum = '13000000007'
+        name = 'zhangsan16'
+        gender = '男'
+        phonenum = '13000000016'
         result = self.main.goto_address()\
             .click_addmember()\
             .add_member_menual()\
             .add_contact(name, gender, phonenum).get_toast()
+
         assert '添加成功' == result

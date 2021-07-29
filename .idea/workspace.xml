@@ -2,16 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c11234-636a-4fe3-bcb1-da1d167ad5b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page/addresslist_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page/contactadd_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page/member_invite_menu_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/testcase/test_contect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/datas/caps.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyYAML-5.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyYAML-5.4.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyYAML-5.4.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyYAML-5.4.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyYAML-5.4.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/PyYAML-5.4.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/_yaml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/composer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/cyaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/dumper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/emitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/events.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/representer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/resolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/scanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/yaml/tokens.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page/addresslist_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/page/addresslist_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/page/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page/contactadd_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/page/contactadd_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/page/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page/member_invite_menu_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/page/member_invite_menu_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testcase/test_contect.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/testcase/test_contect.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +69,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -194,6 +218,11 @@
       <workItem from="1624894038990" duration="956000" />
       <workItem from="1624981206526" duration="4237000" />
       <workItem from="1625067084922" duration="3630000" />
+      <workItem from="1625498346248" duration="3554000" />
+      <workItem from="1625586684416" duration="2059000" />
+      <workItem from="1625671072417" duration="5908000" />
+      <workItem from="1625758149023" duration="4622000" />
+      <workItem from="1626017037612" duration="4128000" />
     </task>
     <task id="LOCAL-00001" summary="重新上传">
       <created>1622823297326</created>
@@ -223,6 +252,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="重新上传" />
     <option name="LAST_COMMIT_MESSAGE" value="重新上传" />
   </component>
@@ -231,10 +261,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="352" y="83" key="#Notifications/0.0.1549.831@0.0.1549.831" timestamp="1622909535287" />
-    <state x="364" y="12" key="CommitChangelistDialog2" timestamp="1622995664986">
+    <state x="364" y="12" key="CommitChangelistDialog2" timestamp="1625070856717">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="364" y="12" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1622995664986" />
+    <state x="364" y="12" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1625070856717" />
     <state x="701" y="239" key="FileChooserDialogImpl" timestamp="1622823485455">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -247,38 +277,38 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="663" y="182" key="Github.UntrackedFilesDialog/0.0.1549.831@0.0.1549.831" timestamp="1622822337468" />
-    <state width="1506" height="209" key="GridCell.Tab.0.bottom" timestamp="1625070713714">
+    <state width="1506" height="209" key="GridCell.Tab.0.bottom" timestamp="1626023317729">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="209" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1625070713714" />
-    <state width="1506" height="209" key="GridCell.Tab.0.center" timestamp="1625070713714">
+    <state width="1506" height="209" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1626023317729" />
+    <state width="1506" height="209" key="GridCell.Tab.0.center" timestamp="1626023317729">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="209" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1625070713714" />
-    <state width="1506" height="209" key="GridCell.Tab.0.left" timestamp="1625070713714">
+    <state width="1506" height="209" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1626023317729" />
+    <state width="1506" height="209" key="GridCell.Tab.0.left" timestamp="1626023317729">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="209" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1625070713714" />
-    <state width="1506" height="209" key="GridCell.Tab.0.right" timestamp="1625070713714">
+    <state width="1506" height="209" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1626023317729" />
+    <state width="1506" height="209" key="GridCell.Tab.0.right" timestamp="1626023317729">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="209" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1625070713714" />
-    <state x="225" y="75" key="SettingsEditor" timestamp="1624723804766">
+    <state width="1506" height="209" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1626023317729" />
+    <state x="399" y="70" key="SettingsEditor" timestamp="1625760225576">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="225" y="75" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1624723804766" />
-    <state x="332" y="242" key="Vcs.Push.Dialog.v2" timestamp="1625070816816">
+    <state x="399" y="70" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1625760225576" />
+    <state x="332" y="242" key="Vcs.Push.Dialog.v2" timestamp="1625070905705">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="332" y="242" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1625070816816" />
+    <state x="332" y="242" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1625070905705" />
     <state x="222" y="145" width="1218" height="609" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1622824720378">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="222" y="145" width="1218" height="609" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1549.831@0.0.1549.831" timestamp="1622824720378" />
-    <state x="326" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1625067198274">
+    <state x="326" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1627517718272">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="326" y="207" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1625067198274" />
+    <state x="326" y="207" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1627517718272" />
     <state x="539" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622823982144">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -289,6 +319,6 @@
     <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_deletecontect.coverage" NAME="pytest for test_demo.TestDemo.test_deletecontect Coverage Results" MODIFIED="1619107839405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_contact.coverage" NAME="pytest for test_demo.TestDemo.test_contact Coverage Results" MODIFIED="1617206046475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_for_test_demo_TestDemo_test_demo.coverage" NAME="pytest for test_demo.TestDemo.test_demo Coverage Results" MODIFIED="1612199056614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_in_test_contect_py.coverage" NAME="pytest in test_contect.py Coverage Results" MODIFIED="1625070713703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/testcase" />
+    <SUITE FILE_PATH="coverage/HogwartsSDET15$pytest_in_test_contect_py.coverage" NAME="pytest in test_contect.py Coverage Results" MODIFIED="1626023006747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/testcase" />
   </component>
 </project>
